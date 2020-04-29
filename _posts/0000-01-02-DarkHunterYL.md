@@ -1,6 +1,7 @@
----
-layout: slide
-title: "Welcome to our second slide!"
----
-Your text
+watashi
+no
+namae
+wa
+hunterYL
+desu
 Use the left arrow to go back!
